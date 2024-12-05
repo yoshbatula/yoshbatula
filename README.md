@@ -16,7 +16,7 @@
 - **Instagram**: [yoshiem_]([https://www.instagram.com/yoshiem_](https://www.instagram.com/yoshiem_/))  
 
 ### 😄 Pronouns  
-- She/Her
+- HE
 
 ### ⚡ Fun Fact  
 - My hobby might be unconventional—it’s singular and heartfelt: loving my Annika . ❤️
