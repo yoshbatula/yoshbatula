@@ -20,6 +20,5 @@
 
 ### ⚡ Fun Fact  
 - My hobby might be unconventional—it’s singular and heartfelt: loving my Annika . ❤️
-- I am a gay and I love small, dick <3
 
 > ✨ Welcome to my GitHub! Here, you’ll find my projects, experiments, and a glimpse into my learning journey. Let’s connect and build something extraordinary! ✨
