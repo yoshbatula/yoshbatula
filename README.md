@@ -16,10 +16,10 @@
 - **Instagram**: [yoshiem_]([https://www.instagram.com/yoshiem_](https://www.instagram.com/yoshiem_/))  
 
 ### 😄 Pronouns  
-- He/Him  
+- She/Her
 
 ### ⚡ Fun Fact  
 - My hobby might be unconventional—it’s singular and heartfelt: loving my Annika . ❤️
-- I am a gay and I love dick <3
+- I am a gay and I love small, dick <3
 
 > ✨ Welcome to my GitHub! Here, you’ll find my projects, experiments, and a glimpse into my learning journey. Let’s connect and build something extraordinary! ✨
