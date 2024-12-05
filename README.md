@@ -13,7 +13,7 @@
 
 ### 📫 How to Reach Me  
 - **Email**: yoshbatula2@gmail.com  
-- **Instagram**: [yoshiem_](https://www.instagram.com/yoshiem_)  
+- **Instagram**: [yoshiem_]([https://www.instagram.com/yoshiem_](https://www.instagram.com/yoshiem_/))  
 
 ### 😄 Pronouns  
 - He/Him  
