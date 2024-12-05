@@ -19,6 +19,6 @@
 - He/Him  
 
 ### ⚡ Fun Fact  
-- My hobby might be unconventional—it’s singular and heartfelt: loving my Annika. ❤️  
+- My hobby might be unconventional—it’s singular and heartfelt: loving my Annika . ❤️  
 
 > ✨ Welcome to my GitHub! Here, you’ll find my projects, experiments, and a glimpse into my learning journey. Let’s connect and build something extraordinary! ✨
