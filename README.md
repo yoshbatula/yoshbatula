@@ -1,19 +1,25 @@
-👋 Hi, I’m @yoshbatula
-I'm a second-year Computer Science student fueled by curiosity about coding and I'm gonna deep dive into the world of technology.
+# 👋 Hi, I’m @yoshbatula
+I'm a second-year Computer Science student driven by curiosity and a passion for coding. I'm excited to dive deeper into the ever-evolving world of technology.
 
-👀 About Me
-I’m a passionate web developer committed to continuous learning and growth.
-I thrive on building projects that push my limits and refine my skills, turning ideas into reality.
-🌱 Currently Learning
-Exploring React.js to elevate my front-end development expertise and create dynamic, interactive web applications.
-💞️ Collaboration
-I’m eager to collaborate on web development projects, focusing on crafting intuitive and user-friendly experiences.
-Always open to innovative ideas and opportunities to work on impactful and exciting projects. Let’s create something amazing together!
-📫 How to Reach Me
-Email: yoshbatula2@gmail.com
-Instagram: yoshiem_
-😄 Pronouns
-He/Him
-⚡ Hobbies
-My hobby might be unconventional—it’s singular and heartfelt: loving my Annika. ❤️
-✨ Welcome to my GitHub! Here, you’ll find my projects, experiments, and a glimpse into my learning journey. Let’s connect and build something extraordinary! ✨
+### 👀 About Me  
+- A passionate web developer dedicated to continuous learning and growth.
+- I thrive on turning ideas into reality, building projects that challenge my skills and push my boundaries.
+
+### 🌱 Currently Learning  
+- Delving into React.js to enhance my front-end development skills and create dynamic, interactive web applications.
+
+### 💞️ Collaboration  
+- I’m eager to collaborate on **web development projects**, focusing on crafting intuitive and user-friendly experiences.  
+- Always open to innovative ideas and opportunities to work on impactful and exciting projects. Let’s create something amazing together!  
+
+### 📫 How to Reach Me  
+- **Email**: yoshbatula2@gmail.com  
+- **Instagram**: [yoshiem_](https://www.instagram.com/yoshiem_)  
+
+### 😄 Pronouns  
+- He/Him  
+
+### ⚡ Hobbies
+- My hobby is unconventional and heartfelt: loving my Annika. ❤️
+
+> ✨ Welcome to my GitHub! Here, you’ll find my projects, experiments, and glimpses of my learning journey. Let’s connect and make amazing things happen! ✨
