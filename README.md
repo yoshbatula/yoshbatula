@@ -20,6 +20,6 @@ I'm a second-year Computer Science student driven by curiosity and a passion for
 - He/Him  
 
 ### ⚡ Hobbies
-- My hobby is unconventional and heartfelt: loving my Annika. ❤️
+- My hobby is playing badminton and creating a project that helps me develop my coding skills. 
 
 > ✨ Welcome to my GitHub! Here, you’ll find my projects, experiments, and glimpses of my learning journey. Let’s connect and make amazing things happen! ✨
