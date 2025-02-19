@@ -14,7 +14,10 @@ I'm a second-year Computer Science student driven by curiosity and a passion for
 
 ### 📫 How to Reach Me  
 - **Email**: yoshbatula2@gmail.com  
-- **Instagram**: [yoshiem_](https://www.instagram.com/yoshiem_)  
+- **Instagram**: [yoshiem_](https://www.instagram.com/yoshiem_)
+
+### 🖥️ TECHSTACK
+(https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 ### 😄 Pronouns  
 - He/Him  
