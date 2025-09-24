@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @yoshbatula
-I'm a second-year Computer Science student driven by curiosity and a passion for coding. I'm excited to dive deeper into the ever-evolving world of technology.
+I'm a third-year Computer Science student driven by curiosity and a passion for coding. I'm excited to dive deeper into the ever-evolving world of technology.
 
 ### 👀 About Me  
 - A passionate web developer dedicated to continuous learning and growth.
