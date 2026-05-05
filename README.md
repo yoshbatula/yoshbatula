@@ -1,4 +1,4 @@
-<h1 align="center">Yo, What's up I'm Yosh👋 </h1> 
+<h1 align="center">Yo, What's up I'm Yosh 👋 </h1> 
 <h3 align="center">💻 Full-Stack Developer | 🎨 Creative Builder | 🚀 Always Learning</h3>
 
 ---
